@@ -249,5 +249,6 @@ mà tên file mình có thể config được nên có thể Blind Cmd injection
 - Lộ file .htaccess and /robots.txt ạ:v
 
 
-#   c h u y e n _ d e _ c o _ s o  
+#   c h u y e n _ d e _ c o _ s o 
+ 
  
